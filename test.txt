@@ -1,0 +1,11 @@
+/* multiline comment
+to test the removing
+*/
+
+#include<stdio.h>
+int main()
+{
+  print("Hello world");
+  return 0;
+}
+
